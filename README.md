@@ -13,7 +13,7 @@ A simple chatbot web application that allows users to chat with their PDF docume
 1. Clone the repository:
 
    ```
-   git clone https://github.com/AIAnytime/Chat-with-PDF-Chatbot.git
+   git clone https://github.com/kartikahlawat/Chat-with-PDF.git
    cd Chat-with-PDF-Chatbot
    ```
 
